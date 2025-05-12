@@ -66,35 +66,6 @@ The dataset includes internal communications between employees in `.csv` format 
 
 ---
 
-## 🧑‍💼 Top Employee Rankings
 
-### 🔝 Top 3 Positive Sentiment Employees
-1. John Smith (Avg: +0.86)
-2. Ayesha Khan (Avg: +0.83)
-3. Rahul Mehta (Avg: +0.79)
-
-### ❌ Bottom 3 Negative Sentiment Employees
-1. Sara Ali (Avg: -0.65)
-2. Vikram Patel (Avg: -0.61)
-3. Zoe Lee (Avg: -0.58)
-
----
-
-## 🚨 Flight Risk Employees Identified
-- Sara Ali
-- Vikram Patel
-
-These individuals showed consistently negative sentiment and low communication engagement.
-
----
-
-## 📈 Visualizations Included
-
-All visuals are stored in the `/visualizations/` folder:
-- `sentiment_distribution.png`
-- `employee_rankings.png`
-- `model_performance.png`
-
----
 
 
